@@ -21,7 +21,7 @@
 
 <br><br>
 <a href="https://github.com/gabrielUpON">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielUpON&theme=transparent">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielUpON&theme=transparent&langs_count=4">
 </a>
 <a href="https://github.com/gabrielUpON">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielUpON&show_icons=true&theme=transparent&line_height=30" alt="Gabriel's github stats"/>
