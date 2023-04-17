@@ -16,11 +16,11 @@ Sou um desenvolvedor iniciante na área de Back-End e disposto a colaborar em pr
 🚀 Curiosidades sobre mim
 ----------------------------
 
-- Basic Introduction to Computer Science by Harvard
-- I took third place in the AMBEV Hackathon in 2020;
-- I like to teach and learn with people;
-- I was the first student council president at my neighborhood school;
-- As a child I developed a team with my cousin and we created: Server on Habbo, Minecraft, GTA San Andreas and GTA V;
+- Participei em projetos envolvendo robotica e automação na universidade Estácio de Sá (Fortaleza - CE)
+- Participei na Feira do Conhecimento (edição 2020) no Centro de Eventos do Ceará, uma oportunidade de conhecer pessoas e apresentar projetos feitos na faculdade;
+- Admiro quem ensina e orienta novatos na área, me inspirando a ser um professor também;
+- ;
+- Durante minha infancia sempre tive a curiosidade de como funcionava as coisas, principalmente servidores onlines. Gostava de jogar muitos jogos e isso me dispertava;
 - I am enthusiastic about computers and since I was eight years old I have been working with computers (Windows 96);
 
 Nowadays I decided to focus on my community, [Kalify Community](https://discord.gg/jhSepmE7nN) to grow and teache others developers. In addition to, build solutions from internet like a [Web Essentials](https://webessentials.vercel.app), [Onigiri Hardcore](https://onigirihardcore.vercel.app), [FindYourPet](https://findyourpet.vercel.app), [AlôGarapa](https://alogarapa.vercel.app/) and more [Kalify Projects](https://kalify.vercel.app/projetos)
