@@ -1,4 +1,4 @@
-<!-- <img src="https://user-images.githubusercontent.com/23272064/214746886-f454923b-d2c4-4609-9251-cb7c82d8bee7.png"/> 
+<img src="https://user-images.githubusercontent.com/23272064/214746886-f454923b-d2c4-4609-9251-cb7c82d8bee7.png"/> 
 
 <img src="https://github.com/tairosonloa/tairosonloa/blob/main/assets/wave.gif?raw=true" width="25px"/> Hi! My name is Anderson “Yagasaki” Marlon
 ----------------------------
@@ -24,12 +24,3 @@ Experienced Software Development (Chunnin) and Front-end Developer building scal
 - I am enthusiastic about computers and since I was eight years old I have been working with computers (Windows 96);
 
 Nowadays I decided to focus on my community, [Kalify Community](https://discord.gg/jhSepmE7nN) to grow and teache others developers. In addition to, build solutions from internet like a [Web Essentials](https://webessentials.vercel.app), [Onigiri Hardcore](https://onigirihardcore.vercel.app), [FindYourPet](https://findyourpet.vercel.app), [AlôGarapa](https://alogarapa.vercel.app/) and more [Kalify Projects](https://kalify.vercel.app/projetos)
-
-🤓 Latest Blog Post in Portuguese
-----------------------------
-- [Como transformar seu website em um Progressive Web Application (PWA)](https://yagasaki.dev/blog/como-transformar-seu-website-em-um-progressive-web-application-pwa)
-- [Introdução ao Git e GitHub para iniciantes](https://yagasaki.dev/blog/introdu%C3%A7%C3%A3o-ao-git-e-git-hub-para-iniciantes)
-- [Como usar o uTorrent para iniciantes](https://yagasaki.dev/blog/como-usar-o-utorrent-para-iniciantes)
-- [Recebendo mensagens de commit no Discord (Webhook)](https://yagasaki.dev/blog/recebendo-mensagens-de-commit-no-discord-webhook)
-- [Rodando Docker no Windows sem Docker Desktop](https://yagasaki.dev/blog/rodando-docker-no-windows-sem-docker-desktop)
--->
