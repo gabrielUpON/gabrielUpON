@@ -1,17 +1,17 @@
 <img src="https://user-images.githubusercontent.com/23272064/214746886-f454923b-d2c4-4609-9251-cb7c82d8bee7.png"/> 
 
-<img src="https://github.com/tairosonloa/tairosonloa/blob/main/assets/wave.gif?raw=true" width="25px"/> Hi! My name is Anderson “Yagasaki” Marlon
+<img src="https://github.com/tairosonloa/tairosonloa/blob/main/assets/wave.gif?raw=true" width="25px"/> Olá! Meu nome é Gabriel Barbosa!
 ----------------------------
 
-Experienced Software Development (Chunnin) and Front-end Developer building scalable systems and applications in the Financial Technology (Fintech), Affiliate System, Brewery, Healthcare, Journalism, Sustainability, Sales/Entrepreneurship, Music, Podcasts, Communication, Sustainability and eSports (Electronic Sports).
+Sou um desenvolvedor iniciante que está disposto a colaborar em projetos que visam o crescimento profissional e técnico na área da técnologia. 
 
-- 🌍  I'm born and based in Campinas, Brazil
-- 🖥️  You can see my portfolio at [official website](http://yagasaki.vercel.app/about)
-- ✉️  You can contact me at [anderson18.marlon@gmail.com](mailto:anderson18.marlon@gmail.com)
-- 🚀  I'm currently Software Developer 中忍 @ Stone Co.
-- 🤓  I'm know about ReactJS, NextJS, Typescript, Styled Components, SASS, Firebase & Docker.
-- 🧠  I'm learning about GraphQL, MongoDB, React Native and Electron
-- 🤝  I'm open to collaborating on interesting projects
+- 🌍  Eu nasci e resido em Fortaleza, Ceará - Brasil
+- 🖥️  Você pode ver os projetos onde colaboro no [site oficial](https://kalify.vercel.app/#projects)
+- ✉️  You can contact me at [gabrielbscontact45@gmail.com](mailto:gabrielbscontact45@gmail.com)
+- 🚀  Atualmente sou Analista de Sistema da Vet & Agro.
+- 🤓  Possuo conhecimento em ReactJS, Express, Firebase e SQL Server.
+- 🧠  Atualmente estou aprendendo sobre NextJS, Typescriptm e DJango
+- 🤝  Estou aberto em colaborar em novos projetos que visam o crescimento profissional e pessoal
 
 🚀 Curiosities about me
 ----------------------------
