@@ -22,4 +22,4 @@ Sou um desenvolvedor iniciante na área de Back-End e disposto a colaborar em pr
 - Sou Colaborador e Moderador da comunidade [Naruto Wiki](https://naruto.fandom.com/pt-br/wiki/Usu%C3%A1rio:Sr_Epaminondas);
 - Durante minha infancia sempre tive a curiosidade de como funcionava as coisas, principalmente servidores onlines. Gostava de jogar muitos jogos e isso me dispertava;
 
-Hoje em dia faço parte da comunidade desenvolvedores, [Kalify Community](https://discord.gg/jhSepmE7nN) para ajudar no crescimento de novos desenvolveddores. Além do mais, faço parte em projetos de soluções web como [Onigiri Hardcore](https://onigirihardcore.vercel.app), [FindYourPet](https://findyourpet.vercel.app) e muito mais em [Kalify Projects](https://kalify.vercel.app/projetos)
+Hoje em dia faço parte da comunidade de desenvolvedores, [Kalify Community](https://discord.gg/jhSepmE7nN) para ajudar no crescimento de novos desenvolveddores. Além do mais, faço parte em projetos de soluções web como [Onigiri Hardcore](https://onigirihardcore.vercel.app), [FindYourPet](https://findyourpet.vercel.app) e muito mais em [Kalify Projects](https://kalify.vercel.app/projetos)
