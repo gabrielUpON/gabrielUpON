@@ -3,14 +3,14 @@
 <img src="https://github.com/tairosonloa/tairosonloa/blob/main/assets/wave.gif?raw=true" width="25px"/> Olá! Meu nome é Gabriel Barbosa!
 ----------------------------
 
-Sou um desenvolvedor iniciante que está disposto a colaborar em projetos que visam o crescimento profissional e técnico na área da técnologia. 
+Sou um desenvolvedor iniciante na área de Back-End e disposto a colaborar em projetos que visam o crescimento profissional e técnico na área da técnologia. 
 
 - 🌍  Eu nasci e resido em Fortaleza, Ceará - Brasil
 - 🖥️  Você pode ver os projetos onde colaboro no [site oficial](https://kalify.vercel.app/#projects)
 - ✉️  You can contact me at [gabrielbscontact45@gmail.com](mailto:gabrielbscontact45@gmail.com)
 - 🚀  Atualmente sou Analista de Sistema da Vet & Agro.
-- 🤓  Possuo conhecimento em ReactJS, Express, Firebase e SQL Server.
-- 🧠  Atualmente estou aprendendo sobre NextJS, Typescriptm e DJango
+- 🤓  Possuo conhecimento em ReactJS, Firebase e SQL Server.
+- 🧠  Atualmente estou aprendendo sobre Express, Typescript e DJango
 - 🤝  Estou aberto em colaborar em novos projetos que visam o crescimento profissional e pessoal
 
 🚀 Curiosities about me
