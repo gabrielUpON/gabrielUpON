@@ -3,7 +3,7 @@
 <img src="https://github.com/tairosonloa/tairosonloa/blob/main/assets/wave.gif?raw=true" width="25px"/> Olá! Meu nome é Gabriel Barbosa!
 ----------------------------
 
-Sou um desenvolvedor iniciante na área de Back-End e disposto a colaborar em projetos que visam o crescimento profissional e técnico na área da técnologia. 
+Sou um desenvolvedor iniciante na área de Back-End e disposto a colaborar em projetos que visam o crescimento profissional e pessoal na área da técnologia. 
 
 - 🌍  Eu nasci e resido em Fortaleza, Ceará - Brasil
 - 🖥️  Você pode ver os projetos onde colaboro no [site oficial](https://kalify.vercel.app/#projects)
