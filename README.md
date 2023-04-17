@@ -19,7 +19,7 @@ Sou um desenvolvedor iniciante na área de Back-End e disposto a colaborar em pr
 - Participei em projetos envolvendo robotica e automação na universidade Estácio de Sá (Fortaleza - CE)
 - Participei na Feira do Conhecimento (edição 2020) no Centro de Eventos do Ceará, uma oportunidade de conhecer pessoas e apresentar projetos feitos na faculdade;
 - Admiro quem ensina e orienta novatos na área, me inspirando a ser um professor também;
-- Sempre disposto a aprender;
+- Sou Colaborador e Moderador da comunidade [Naruto Wiki]((https://naruto.fandom.com/pt-br/wiki/Usu%C3%A1rio:Sr_Epaminondas);
 - Durante minha infancia sempre tive a curiosidade de como funcionava as coisas, principalmente servidores onlines. Gostava de jogar muitos jogos e isso me dispertava;
 
 Hoje em dia faço parte da comunidade desenvolvedores, [Kalify Community](https://discord.gg/jhSepmE7nN) para ajudar no crescimento de novos desenvolveddores. Além do mais, faço parte em projetos de soluções web como [Onigiri Hardcore](https://onigirihardcore.vercel.app), [FindYourPet](https://findyourpet.vercel.app) e muito mais em [Kalify Projects](https://kalify.vercel.app/projetos)
