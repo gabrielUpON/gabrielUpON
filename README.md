@@ -11,9 +11,9 @@ Sou um desenvolvedor iniciante na área de Back-End e disposto a colaborar em pr
 - 🚀  Atualmente sou Analista de Sistema da Vet & Agro.
 - 🤓  Possuo conhecimento em ReactJS, Firebase e SQL Server.
 - 🧠  Atualmente estou aprendendo sobre Express, Typescript e DJango
-- 🤝  Estou aberto em colaborar em novos projetos que visam o crescimento profissional e pessoal
+- 🤝  Estou aberto em colaborar em novos projetos que visam o crescimento profissional e pessoal.
 
-🚀 Curiosities about me
+🚀 Curiosidades sobre mim
 ----------------------------
 
 - Basic Introduction to Computer Science by Harvard
