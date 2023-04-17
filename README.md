@@ -16,7 +16,7 @@ Sou um desenvolvedor iniciante na área de Back-End e disposto a colaborar em pr
 🚀 Curiosidades sobre mim
 ----------------------------
 
-- Participei em projetos envolvendo robotica e automação na universidade Estácio de Sá (Fortaleza - CE)
+- Participei em projetos envolvendo robotica e automação na universidade Estácio de Sá (Fortaleza - CE);
 - Participei na Feira do Conhecimento (edição 2020) no Centro de Eventos do Ceará, uma oportunidade de conhecer pessoas e apresentar projetos feitos na faculdade;
 - Admiro quem ensina e orienta novatos na área, me inspirando a ser um professor também;
 - Sou Colaborador e Moderador da comunidade [Naruto Wiki](https://naruto.fandom.com/pt-br/wiki/Usu%C3%A1rio:Sr_Epaminondas);
