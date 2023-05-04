@@ -10,7 +10,7 @@ Sou um desenvolvedor iniciante na área de Back-End e disposto a colaborar em pr
 - ✉️  Você pode entrar em contato comigo em [gabrielbscontact45@gmail.com](mailto:gabrielbscontact45@gmail.com)
 - 🚀  Atualmente sou Analista de Sistema da Vet & Agro.
 - 🤓  Possuo conhecimento em ReactJS, Firebase e SQL Server.
-- 🧠  Atualmente estou aprendendo sobre Express, Typescript e DJango
+- 🧠  Atualmente estou aprendendo sobre Express, Typescript e NextJS
 - 🤝  Estou aberto em colaborar em novos projetos que visam o crescimento profissional e pessoal.
 
 🚀 Curiosidades sobre mim
