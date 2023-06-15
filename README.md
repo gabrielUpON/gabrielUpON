@@ -10,7 +10,7 @@ Sou um desenvolvedor iniciante na área de Back-End e disposto a colaborar em pr
 - ✉️  Você pode entrar em contato comigo em [gabrielbscontact45@gmail.com](mailto:gabrielbscontact45@gmail.com)
 - 🚀  Atualmente sou Analista de Sistema da Vet & Agro.
 - 🤓  Possuo conhecimento em ReactJS, Firebase e SQL Server.
-- 🧠  Atualmente estou aprendendo sobre Express, Typescript e NextJS
+- 🧠  Atualmente estou aprendendo sobre Typescript e NextJS
 - 🤝  Estou aberto em colaborar em novos projetos que visam o crescimento profissional e pessoal.
 
 🚀 Curiosidades sobre mim
@@ -19,7 +19,6 @@ Sou um desenvolvedor iniciante na área de Back-End e disposto a colaborar em pr
 - Participei em projetos envolvendo robótica e automação na universidade Estácio de Sá (Fortaleza - CE);
 - Participei na Feira do Conhecimento (edição 2020) no Centro de Eventos do Ceará, uma oportunidade de conhecer pessoas e apresentar projetos feitos na faculdade;
 - Admiro quem ensina e orienta novatos na área, me inspirando a ser um professor também;
-- Sou Colaborador e Moderador da comunidade [Naruto Wiki](https://naruto.fandom.com/pt-br/wiki/Usu%C3%A1rio:Sr_Epaminondas);
 - Durante minha infância sempre tive a curiosidade de como funcionava as coisas, principalmente servidores onlines. Gostava de jogar muitos jogos e isso me despertava;
 
 Hoje em dia faço parte da comunidade de desenvolvedores, [Kalify Community](https://discord.gg/jhSepmE7nN) para ajudar no crescimento de novos desenvolvedores. Além do mais, faço parte em projetos de soluções web como [Onigiri Hardcore](https://onigirihardcore.vercel.app), [FindYourPet](https://findyourpet.vercel.app) e muito mais em [Kalify Projects](https://kalify.vercel.app/projetos)
