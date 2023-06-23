@@ -1,24 +1,27 @@
 <img src="https://user-images.githubusercontent.com/23272064/214746886-f454923b-d2c4-4609-9251-cb7c82d8bee7.png"/> 
 
-<img src="https://github.com/tairosonloa/tairosonloa/blob/main/assets/wave.gif?raw=true" width="25px"/> Olá! Meu nome é Gabriel Barbosa!
+<img src="https://github.com/tairosonloa/tairosonloa/blob/main/assets/wave.gif?raw=true" width="25px"/> Hello, my name is Gabriel Barbosa!
 ----------------------------
 
-Sou um desenvolvedor iniciante na área de Back-End e disposto a colaborar em projetos que visam o crescimento profissional e pessoal na área da tecnologia. 
+I am a beginner developer in the Back-End area and willing to collaborate on projects aimed at professional and personal growth in the area of technology. 
 
-- 🌍  Eu nasci e resido em Fortaleza, Ceará - Brasil
-- 🖥️  Você pode ver os projetos onde colaboro no [site oficial](https://kalify.vercel.app/#projects)
-- ✉️  Você pode entrar em contato comigo em [gabrielbscontact45@gmail.com](mailto:gabrielbscontact45@gmail.com)
-- 🚀  Atualmente sou Analista de Sistema da Vet & Agro.
-- 🤓  Possuo conhecimento em ReactJS, Firebase e SQL Server.
-- 🧠  Atualmente estou aprendendo sobre Typescript e NextJS
-- 🤝  Estou aberto em colaborar em novos projetos que visam o crescimento profissional e pessoal.
+- 🌍 I was born and live in Fortaleza, Ceará - Brazil
+- 🖥️ You can see the projects where I collaborate on [official website](https://kalify.vercel.app/#projects)
+- ✉️ You can contact me at [gabrielbscontact45@gmail.com](mailto:gabrielbscontact45@gmail.com)
+- 🚀 I am currently a System Analyst at Vet & Agro.
+- 🤓 I have knowledge in ReactJS, Firebase and SQL Server.
+- 🧠 Currently learning about Typescript and NextJS
+- 🤝 I am open to collaborate on new projects that aim for professional and personal growth.
 
-🚀 Curiosidades sobre mim
+🚀 Curiosities about me
 ----------------------------
 
-- Participei em projetos envolvendo robótica e automação na universidade Estácio de Sá (Fortaleza - CE);
-- Participei na Feira do Conhecimento (edição 2020) no Centro de Eventos do Ceará, uma oportunidade de conhecer pessoas e apresentar projetos feitos na faculdade;
-- Admiro quem ensina e orienta novatos na área, me inspirando a ser um professor também;
-- Durante minha infância sempre tive a curiosidade de como funcionava as coisas, principalmente servidores onlines. Gostava de jogar muitos jogos e isso me despertava;
+- I participated in projects involving robotics and automation at Estácio de Sá University (Fortaleza - CE);
+- I participated in the Knowledge Fair (2020 edition) at the Ceará Events Center, an opportunity to meet people and present projects done in college;
+- I admire those who teach and orient newcomers in the area, inspiring me to be a teacher as well;
+- During my childhood I was always curious about how things worked, especially online servers. I liked to play a lot of games and this awakened me;
 
-Hoje em dia faço parte da comunidade de desenvolvedores, [Kalify Community](https://discord.gg/jhSepmE7nN) para ajudar no crescimento de novos desenvolvedores. Além do mais, faço parte em projetos de soluções web como [Onigiri Hardcore](https://onigirihardcore.vercel.app), [FindYourPet](https://findyourpet.vercel.app) e muito mais em [Kalify Projects](https://kalify.vercel.app/projetos)
+Nowadays I am part of the developer community, [Kalify Community](https://discord.gg/jhSepmE7nN) to help the growth of new developers. Furthermore, I'm part of web solution projects like [Onigiri Hardcore](https://onigirihardcore.vercel.app), [FindYourPet](https://findyourpet.vercel.app) and more at [Kalify Projects](https://kalify.vercel.app/projetos)
+
+
+Translated with www.DeepL.com/Translator (free version)
