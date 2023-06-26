@@ -23,5 +23,4 @@ I am a beginner developer in the Back-End area and willing to collaborate on pro
 
 Nowadays I am part of the developer community, [Kalify Community](https://discord.gg/jhSepmE7nN) to help the growth of new developers. Furthermore, I'm part of web solution projects like [Onigiri Hardcore](https://onigirihardcore.vercel.app), [FindYourPet](https://findyourpet.vercel.app) and more at [Kalify Projects](https://kalify.vercel.app/projetos)
 
-
-Translated with www.DeepL.com/Translator (free version)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
