@@ -7,7 +7,7 @@ I am a beginner developer in the Back-End area and willing to collaborate on pro
 
 - 🌍 I was born and live in Fortaleza, Ceará - Brazil
 - 🖥️ You can see the projects where I collaborate on [official website](https://kalify.vercel.app/#projects)
-- ✉️ You can contact me at [gabrielbscontact45@gmail.com](mailto:gabrielbscontact45@gmail.com)
+- ✉️ You can contact me at [Gmail](mailto:gabrielbscontact45@gmail.com)
 - 🚀 I am currently a System Analyst at Vet & Agro.
 - 🤓 I have knowledge in ReactJS, Firebase and SQL.
 - 🧠 Currently learning about Typescript and NextJS
