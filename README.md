@@ -22,11 +22,12 @@ I am a beginner developer in the Back-End area and willing to collaborate on pro
 
 Nowadays I am part of the developer community, [Kalify Community](https://discord.gg/jhSepmE7nN) to help the growth of new developers. Furthermore, I'm part of web solution projects like [Onigiri Hardcore](https://onigirihardcore.vercel.app), [FindYourPet](https://findyourpet.vercel.app) and more at [Kalify Projects](https://kalify.vercel.app/projetos)
 
-## 🖥️ Tools and Technologies
+## 🐱 GitStatus
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=gabrielUpON&theme=tokyonight&show_icons=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielUpON&hide_progress=true" />
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielUpON&theme=tokyonight&show_icons=true" alt="GitHub Stats" />
+  <p></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielUpON&layout=donut&theme=tokyonight" />
  </a>
 </div>
 
