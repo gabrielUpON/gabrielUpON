@@ -6,7 +6,7 @@
 I am a beginner developer in the Back-End area and willing to collaborate on projects aimed at professional and personal growth in the area of technology. 
 
 - 🌍 I was born and live in Fortaleza, Ceará - Brazil
-- 🖥️ You can see the projects where I collaborate on [official website](https://kalify.vercel.app/#projects)
+- 🖥️ You can see the projects where I collaborate on [official website](https://kalify.vercel.app/)
 - 🚀 I am currently a System Analyst at Vet & Agro.
 - 🤓 I have knowledge in ReactJS, Firebase and SQL.
 - 🧠 Currently learning about Typescript and NextJS
