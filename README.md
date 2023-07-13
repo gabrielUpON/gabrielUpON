@@ -8,7 +8,7 @@ I am a beginner developer in the Back-End area and willing to collaborate on pro
 - 🌍 I was born and live in Fortaleza, Ceará - Brazil
 - 🖥️ You can see my portfolio at [official website](https://gabrielsantiago.my.canva.site/)
 - 🚀 I am currently a System Analyst at Vet & Agro.
-- 🤓 I have knowledge in ReactJS, Firebase and SQL.
+- 🤓 I have knowledge in ReactJS, Firebase, ServerSQL and PostgreSQL.
 - 🧠 Currently learning about Typescript and NextJS
 - 🤝 I am open to collaborate on new projects that aim for professional and personal growth.
 
@@ -31,9 +31,3 @@ Nowadays I am part of the developer community, [Kalify Community](https://discor
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielUpON&layout=donut&theme=tokyonight" />
  </a>
 </div>
-
-🛠️ Stack / Build
-----------------------------
-
-📲 Contact
-----------------------------
