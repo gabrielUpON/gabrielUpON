@@ -18,7 +18,7 @@ I am a beginner developer in the Back-End area and willing to collaborate on pro
 - I participated in projects involving robotics and automation at Estácio de Sá University (Fortaleza - CE);
 - I participated in the Knowledge Fair (2020 edition) at the Ceará Events Center, an opportunity to meet people and present projects done in college;
 - I admire those who teach and orient newcomers in the area, inspiring me to be a teacher as well;
-- During my childhood I was always curious about how things worked, especially online servers. I liked to play a lot of games and this awakened me;
+- During my childhood I was always curious about how things worked, especially online servers. I liked to play a lot of games and this awakened me.
 
 Nowadays I am part of the developer community, [Kalify Community](https://discord.gg/jhSepmE7nN) to help the growth of new developers. Furthermore, I'm part of web solution projects like [Onigiri Hardcore](https://onigirihardcore.vercel.app), [FindYourPet](https://findyourpet.vercel.app) and more at [Kalify Projects](https://kalify.vercel.app/projetos)
 
