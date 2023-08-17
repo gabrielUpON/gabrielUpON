@@ -8,8 +8,8 @@ I am a beginner developer in the Back-End area and willing to collaborate on pro
 - 🌍 I was born and live in Fortaleza, Ceará - Brazil
 - 🖥️ You can see my portfolio at [official website](https://gabrielsantiago.my.canva.site/)
 - 🚀 I am currently a System Analyst at Vet & Agro.
-- 🤓 I have knowledge in ReactJS, Firebase, ServerSQL and PostgreSQL.
-- 🧠 Currently learning about Typescript and NextJS
+- 🤓 I have knowledge in React, Next, Firebase, Typescript, SQL, CRUDs.
+- 🧠 Currently learning about CMS and security
 - 🤝 I am open to collaborate on new projects that aim for professional and personal growth.
 
 🚀 Curiosities about me
