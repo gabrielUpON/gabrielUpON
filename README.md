@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/23272064/214746886-f454923b-d2c4-4609-9251-cb7c82d8bee7.png"/> 
+  <img src="https://user-images.githubusercontent.com/23272064/214746886-f454923b-d2c4-4609-9251-cb7c82d8bee7.png"/> 
 
 <img src="https://github.com/tairosonloa/tairosonloa/blob/main/assets/wave.gif?raw=true" width="25px"/> Hello, my name is Gabriel Santiago!
 ----------------------------
@@ -8,7 +8,7 @@ I am a beginner developer in the Back-End area and willing to collaborate on pro
 - 🌍 I was born and I'm currently living in Fortaleza, Ceará - Brazil
 - 🖥️ You can see my portfolio at [official website](https://gabrielsantiago.my.canva.site/)
 - 🚀 I am currently a System Analyst at Vet & Agro.
-- 🤓 I proficient in React, Next, Firebase, Typescript, SQL, CRUDs.
+- 🤓 I proficient in JavaScript, ReactJS, NextJS, Firebase, SQL, CRUDs.
 - 🧠 Currently learning about CMS and security
 - 🤝 I am open to collaborate on new projects. Always aiming my professional and personal growth.
 
